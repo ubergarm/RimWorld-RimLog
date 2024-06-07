@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest>
+  <identifier>net.ubergarm.rimworld.mods.rimlog</identifier>
+  <version>0.0.1</version>
+  <targetVersions>
+  </targetVersions>
+  <dependencies>
+    <li>brrainz.harmony</li>
+  </dependencies>
+  <incompatibleWith>
+  </incompatibleWith>
+  <loadBefore>
+  </loadBefore>
+  <loadAfter>
+    <li>brrainz.harmony</li>
+  </loadAfter>
+  <showCrossPromotions>true</showCrossPromotions>
+  <manifestUri>https://raw.githubusercontent.com/ubergarm/RimWorld-RimLog/master/About/Manifest.xml</manifestUri>
+  <downloadUri>https://github.com/ubergarm/RimWorld-RimLog/releases/latest</downloadUri>
+</Manifest>
