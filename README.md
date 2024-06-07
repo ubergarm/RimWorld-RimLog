@@ -28,6 +28,7 @@ You can use this to AI Generate stories based on your actual colony names and ev
 - [ ] Add config options to enable/disable specific logs and change filenames
 
 ## References
+* [RimLog Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3263020460)
 * [RimStory](https://steamcommunity.com/sharedfiles/filedetails/?id=2601386195)
 * [Tale Log Tab Mod](https://github.com/ssimpson91/TalesLog-Updated-1.5)
 * [Interaction Bubbles Mod](https://github.com/Jaxe-Dev/Bubbles)
